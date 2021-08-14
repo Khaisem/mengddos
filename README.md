@@ -1,1 +1,2 @@
-# mengddos
+# mengddos V1
+# TESTED ON TERMUX,KALI LINUX
