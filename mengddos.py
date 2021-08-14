@@ -25,7 +25,7 @@ def usage():
     print ("@@@ @@@&%@&@@,@@%@@,@@@@@,*@@@*@%@@@,@@&@@,@ @@*@@")
     print ("@@@@&@@@@@%@@@..@@@,@@@@@@@@@@@/@#@@@..@@@@,@@@# @")
     print ("")
-    print ("\033[32;1mSAYA TIDAK BERTANGGUNGJAWAB SEBARANG RISIKO YANG TERJADI KETIKA ANDA MENGGUNAKAN SCRIPT INI!use at your own risk!\033")
+    print ("\033[32;1mI AM NOT RESPONSIBLE FOR ANY RISKS THAT OCCUR WHEN YOU USE THIS SCRIPT!use at your own risk!\033")
     print ("")  
     print ("\033[31;1mCARA MENGGUNAKAN:python mengddos.py <IP/URL> <TARGET PORT> <PACKET>\033")
     print ("\033[31;1mCONTOH:python mengddos.py www.site.com 80 99999\033")
